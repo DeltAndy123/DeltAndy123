@@ -1,2 +1,19 @@
-### About Me
-- Favorite coding language: TypeScript
+## About Me
+
+I mostly code backend stuff, but I sometimes do frontend
+
+**Languages I know:**
+- JavaScript/TypeScript
+- HTML/CSS
+- Java
+- Kotlin
+- Swift
+- Python
+- Bash
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeltAndy123&show_icons=true&theme=dark#gh-dark-mode-only)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeltAndy123&show_icons=true&theme=light#gh-light-mode-only)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeltAndy123&layout=compact&theme=dark#gh-dark-mode-only)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeltAndy123&layout=compact&theme=light#gh-light-mode-only)
